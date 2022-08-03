@@ -1,0 +1,23 @@
+{
+	"asset" : {
+		"version" : "1.0"
+	},
+	"properties" : {
+		"gml_id" : {},
+		"citygml_target_uri" : {},
+		"gml_description" : {},
+		"gml_name" : {},
+		"citygml_city_object_member{}.xlink_href" : {},
+		"citygml_appearance_member{}.xlink_href" : {},
+		"gml_feature_member{}.xlink_href" : {}
+	},
+	"geometricError" : 0,
+	"root" : {
+		"boundingVolume" : {
+			"region" : [ null, null, null, null, 1.7976931348623157e+308, -1.7976931348623157e+308 ]
+		},
+		"geometricError" : 0,
+		"refine" : "REPLACE",
+		"children" : []
+	}
+}
